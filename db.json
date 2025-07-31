@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": "c22a",
+      "title": "Take out the trash",
+      "status": "pending"
+    },
+    {
+      "id": "66f9",
+      "title": "Get groceries",
+      "status": "pending"
+    },
+    {
+      "id": "f4d7",
+      "title": "Turn the water pump on",
+      "status": "pending"
+    }
+  ]
+}
